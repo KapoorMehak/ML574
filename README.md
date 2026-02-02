@@ -1,5 +1,5 @@
 # ML574
-Machine learning/Depp learning class
+Machine learning/Deep learning class
 
 
 This code comapres three different ML predictor on diagnostic cancer data.
